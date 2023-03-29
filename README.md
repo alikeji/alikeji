@@ -1,4 +1,4 @@
-### Hi there 👋
+宠物超市商城系统
 php+mysql+apache
 本地环境可以使用phpstudy
 数据库文件+v索取。账号是alsidore
